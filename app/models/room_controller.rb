@@ -1,0 +1,2 @@
+class RoomController < ApplicationRecord
+end
